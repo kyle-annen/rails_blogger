@@ -3,6 +3,3 @@
 Blogging App Created by following tutorial here:
 
 http://tutorials.jumpstartlab.com/projects/blogger.html
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
